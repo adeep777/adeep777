@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Adeep Naushad A</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-![x](https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif)
+https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/issues/6#issue-2245438475
 
 
 - 🌱 I’m currently learning **javascript,python_django**
