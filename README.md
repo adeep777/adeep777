@@ -1,5 +1,6 @@
 
-![hello-ezgif com-crop](https://github.com/adeep777/adeep777/assets/117929920/466b9a7c-0ef0-4404-91ee-3a706b6c533a)
+![hello-ezgif com-crop](https://github.com/adeep777/adeep777/assets/117929920/fc5bca9c-00d4-45e1-8147-bd42eb141259)
+
 <h1 align="center"> I'm Adeep Naushad A</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
