@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adeep Naushad A</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+![mario](https://github.com/adeep777/adeep777/assets/117929920/89081fb9-eccd-45be-a2c3-45f73d0008db)
 
-![212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6]https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
 
 - 🌱 I’m currently learning **javascript,python_django**
