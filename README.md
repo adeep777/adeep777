@@ -1,10 +1,10 @@
-![hello-ezgif com-crop](https://github.com/adeep777/adeep777/assets/117929920/466b9a7c-0ef0-4404-91ee-3a706b6c533a)
 
+![hello-ezgif com-crop](https://github.com/adeep777/adeep777/assets/117929920/466b9a7c-0ef0-4404-91ee-3a706b6c533a)
 <h1 align="center"> I'm Adeep Naushad A</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 ![mario](https://github.com/adeep777/adeep777/assets/117929920/1db9e320-f884-4580-994e-62ff21bd31d4)
-![hello-ezgif com-crop](https://github.com/adeep777/adeep777/assets/117929920/466b9a7c-0ef0-4404-91ee-3a706b6c533a)
+
 
 
 
