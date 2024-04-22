@@ -2,7 +2,7 @@
 ![hello-ezgif com-crop](https://github.com/adeep777/adeep777/assets/117929920/fc5bca9c-00d4-45e1-8147-bd42eb141259)
 
 <h1 align="center"> I'm Adeep Naushad A</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 ![mario](https://github.com/adeep777/adeep777/assets/117929920/1db9e320-f884-4580-994e-62ff21bd31d4)
 
